@@ -6,9 +6,9 @@ GuardDuty :
 - GuardDuty analyzes  AWS CloudTrail event logs, Amazon VPC Flow Logs, and DNS logs across the AWS Region.
 - The finding which can be detected by GuardDuty is for these resources in AWS :
 
-Instance, AccessKey, S3Bucket, Kubernetes cluster, ECS cluster, Container, RDSDBInstance, or Lambda
+Instance, AccessKey, S3Bucket, Kubernetes cluster, ECS cluster, Container, RDS, DBInstance, Lambda.
 
-AWS GuardDuty Findings contains the following information :
+# AWS GuardDuty Findings contains the following information :
 
 - Account ID 
 - Count
